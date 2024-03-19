@@ -1,0 +1,4 @@
+repository "Legend of Zelda@quanvu9287@cloud"
+  path "/"
+    br "/main"
+    co "/main"
